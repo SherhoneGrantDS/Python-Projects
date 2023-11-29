@@ -24,6 +24,6 @@ I welcome collaboration and feedback! If you share an interest in Python, data m
 
 ## Connect with Me
 
-Let's connect and discuss Python, data, and everything in between. You can find me on LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername).
+Let's connect and discuss Python, data, and everything in between. You can find me on LinkedIn: [linkedin.com/in/sherhonegrant](https://www.linkedin.com/in/sherhonegrant).
 
 Happy coding! 🐍🚀
