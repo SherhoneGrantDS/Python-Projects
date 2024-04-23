@@ -23,7 +23,7 @@ The Tax Calculator is a simple graphical application designed to calculate the t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tax-calculator.git
+   git clone https://github.com/SherhoneGrantDS/Python-Projects/tree/40ae92d616314bc6949deaf7d1e7b515fb52d386/Easy%20Python%20Projects/Tax%20Calculator
    ```
 
 2. Install the required dependencies:
