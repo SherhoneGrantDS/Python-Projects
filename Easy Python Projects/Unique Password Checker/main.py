@@ -1,7 +1,7 @@
 def check_password(password:str):
     with open("passwords.text", "r") as file:
-        common_passwords = list[str] = file.read().splitlines()
-        #print(common_passwords)#
+        common_passwords = file.read().splitlines()
+        # Print(common_passwords)#
 
     for i , common_password in enumerate(common_passwords, start=1):
          if password == common_password:
