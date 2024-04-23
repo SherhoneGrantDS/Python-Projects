@@ -64,5 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - CustomTkinter: https://github.com/SherlockShivam/customtkinter
 
 ---
-
-Feel free to customize this README according to your project's specifics and preferences. If you have any questions or need further assistance, please let me know!
