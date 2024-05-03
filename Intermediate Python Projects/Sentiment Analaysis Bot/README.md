@@ -16,7 +16,7 @@ The Sentiment Analysis Bot is a Python-based application that analyzes the senti
 1. Clone or download the repository:
 
     ```bash
-    git clone https://github.com/your_username/sentiment-analysis-bot.git
+    git clone https://github.com/SherhoneGrantMDS/sentiment-analysis-bot.git
     ```
 
 2. Navigate to the project directory:
