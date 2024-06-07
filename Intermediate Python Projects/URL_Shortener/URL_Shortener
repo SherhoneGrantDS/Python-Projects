@@ -1,0 +1,27 @@
+from typing import Final
+import requests
+
+api_key : Final[str] = 'd63f312a0457de062e252b15791983a54ce4b'
+base_url : Final[str] = 'https://cutt.ly/api/api.php'
+
+
+def shorten_link(full_link: str) -> str:
+    payload = dict = {'key': api_key, 'short': full_link}
+    request = requests.get(base_url, params=payload)
+    data: dict = request.json()
+
+    if url_data := data.get('url'):
+        
+        if url_data['status'] == 7:
+            short_link = url_data['shortLink']
+            print('Link:', short_link)
+    
+        else:
+            print('Error Status:', url_data['status'])
+
+def main():
+    input_link: str = input('Enter the link to shorten: ')
+    shorten_link(input_link)
+
+if __name__ == '__main__':
+    main()
