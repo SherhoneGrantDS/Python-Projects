@@ -22,7 +22,7 @@ The File Sorter is a command-line utility designed to organize files in a direct
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/file-sorter.git
+   git clone https://github.com/SherhoneGrantMDS/file-sorter.git
    ```
 
 2. Navigate to the project directory:
